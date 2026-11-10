@@ -23,4 +23,4 @@ I am a BBIT student exploring cybersecurity, with an interest in security operat
 Projects and practical cybersecurity labs will be added here as I progress.
 
 ## Contact
-- LinkedIn: [Add your LinkedIn URL]
+- LinkedIn: [https://www.linkedin.com/in/amina-riaz-data/]
